@@ -59,8 +59,7 @@ const capabilities = [
 const timeline = [
   { year: "2025", role: "Assistant Marketing Coordinator / Admin Staff", org: "LetzMarket", note: "Digital Marketing · Canada (Remote)" },
   { year: "2024–2025", role: "Social Media Manager", org: "No Boundaries Marketing Group", note: "Digital Marketing · USA (Remote)" },
-  { year: "2023–2024", role: "Human Resource Staff", org: "Toyota Butuan City", note: "Butuan City, PH" },
-  { year: "2022", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
+  { year: "2026", role: "BS Information System", org: "Caraga State University", note: "Graduated" },
 ];
 
 const toolStack = [
